@@ -6,7 +6,7 @@ a) Install NLTK
 
 b) Convert the given text to speech.
 
-c) Convert audio file Speech to Text.
+c) Convert audio file Speech to Text. (  https://www.pacdv.com/sounds/voices/maybe-next-time.wav  -file for speech)
 
 https://colab.research.google.com/drive/1cPSykdENTCD4xBU6OYAIbxj1dnoGAMMb?usp=sharing
 
