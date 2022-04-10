@@ -125,7 +125,8 @@ https://colab.research.google.com/drive/1PRszDWrnK0x4_b1sDuHEqzFpRCeTkgJN?usp=sh
 
 
 # Practical 9 
-
+Spam.csv
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 Implement Naive Bayes classifier
 
