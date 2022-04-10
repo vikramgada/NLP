@@ -84,7 +84,7 @@ b) Generate similar sentences from a given Hindi text input
 
 c) Identify the Indian language of a text
 
-https://colab.research.google.com/drive/1q09I-GJpM4UAv74rXZCiFDzlqSTxlwaK?usp=sharing
+https://colab.research.google.com/drive/15gnardrQyOW-N9OH4eQuzJIoN-N4ZKB9?usp=sharing
 
 # Practical 6
 
