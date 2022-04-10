@@ -2,6 +2,8 @@
 
 # Practical 1
 
+a) Install NLTK
+
 b) Convert the given text to speech.
 
 c) Convert audio file Speech to Text.
