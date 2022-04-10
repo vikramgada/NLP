@@ -161,4 +161,7 @@ c) Word Sense Disambiguation
 
 https://colab.research.google.com/drive/1_k16HRriLUYsTthvPUPV3GjTskgLFK4N?usp=sharing
 
+# Practical Corpora Pract
+
+https://colab.research.google.com/drive/1nA3ybyuIqWeSyudY61ZyO2ggggFV6xBN?usp=sharing
 
