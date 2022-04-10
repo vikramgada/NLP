@@ -1,12 +1,14 @@
 # NLP
 
-Practical 1
+# Practical 1
+
 b) Convert the given text to speech.
 
 c) Convert audio file Speech to Text.
-https://colab.research.google.com/drive/1cPSykdENTCD4xBU6OYAIbxj1dnoGAMMb#scrollTo=1XQ3uWj4Xzo_
 
-Practical 2
+https://colab.research.google.com/drive/1cPSykdENTCD4xBU6OYAIbxj1dnoGAMMb?usp=sharing
+
+# Practical 2
 
 a. Study of various Corpus – Brown, Inaugural, Reuters, udhr with various
 methods like filelds, raw, words, sents, categories.
@@ -28,9 +30,10 @@ this text with a given corpus of words. Also find the score of words.
 
 a. Study of various Corpus – Brown, Inaugural, Reuters, udhr with various
 methods like fields, raw, words, sents, categories,
-https://colab.research.google.com/drive/17CrB-JfWq_vs56Fx73-02MmF76tVRKtO#scrollTo=wiDRNQXSmBSe
 
-Practical 3 .
+https://colab.research.google.com/drive/1_-xPfET5K-ZAVy7427tYVAA-ii08bq47?usp=sharing
+
+# Practical 3
 
 a. Study of Wordnet Dictionary with methods as synsets, definitions, examples,
 antonyms.
@@ -49,15 +52,54 @@ List
 ii) Using Gensim Adding and Removing Stop Words in Default Gensim Stop
 Words List
 
-https://colab.research.google.com/drive/1BVWRDD0ljreKQtLJv4j0-LjTzSWtge0a#scrollTo=5L284devn9Hx
+iii) Using Spacy Adding and Removing Stop Words in Default Spacy Stop Words
+List
+
+https://colab.research.google.com/drive/1BVWRDD0ljreKQtLJv4j0-LjTzSWtge0a?usp=sharing
 
 
-Practical 4 & 5
+# Practical 4 
+
+a. Tokenization using Python’s split() function
+
+b. Tokenization using Regular Expressions (RegEx)
+
+c. Tokenization using NLTK
+
+d. Tokenization using the spaCy library
+
+e. Tokenization using Keras
+
+f. Tokenization using Gensim
+
+https://colab.research.google.com/drive/1q09I-GJpM4UAv74rXZCiFDzlqSTxlwaK?usp=sharing
+
+# Practical 5
+
+a) word tokenization in Hindi
+
+b) Generate similar sentences from a given Hindi text input
+
+c) Identify the Indian language of a text
+
+https://colab.research.google.com/drive/1q09I-GJpM4UAv74rXZCiFDzlqSTxlwaK?usp=sharing
+
+# Practical 6
+
+a. Part of speech Tagging and chunking of user defined text.
+
+b. Named Entity recognition of user defined text.
+
+c. Named Entity recognition with diagram using NLTK corpus – treebank
+POS Tagging, chunking and NER:
+
+a) sentence tokenization, word tokenization, Part of speech Tagging and chunking
+of user defined text.
+
+https://colab.research.google.com/drive/1yz9DbhJ_GCz4uLXSAJ7xdRR9Hm0YNAnE?usp=sharing
 
 
-https://colab.research.google.com/drive/1q09I-GJpM4UAv74rXZCiFDzlqSTxlwaK#scrollTo=VM_Wnam8Qb5g
-
-Practical 7 
+# Practical 7 
 
 Finite state automata
 
@@ -72,7 +114,7 @@ d) Accept the input string with Regular expression of FA: (a+b)*bba.
  https://colab.research.google.com/drive/1CG8eUNRX0KniKSndpwVo26_SkBJB1SSL?usp=sharing
  
  
- Practical 8
+# Practical 8
  
  
  Study PorterStemmer, LancasterStemmer, RegexpStemmer, SnowballStemmer Study WordNetLemmatizer
@@ -80,7 +122,7 @@ d) Accept the input string with Regular expression of FA: (a+b)*bba.
 https://colab.research.google.com/drive/1PRszDWrnK0x4_b1sDuHEqzFpRCeTkgJN?usp=sharing
 
 
-Practical 9 
+# Practical 9 
 
 
 Implement Naive Bayes classifier
@@ -88,7 +130,7 @@ Implement Naive Bayes classifier
 https://colab.research.google.com/drive/1fuhFIsHLcOe4yhZEpH2gC7Ba-ZKC0-4J?usp=sharing
 
 
-Practical 10
+# Practical 10
 
 a) Speech Tagging: 
 
@@ -106,7 +148,7 @@ ii. probabilistic parser
 https://colab.research.google.com/drive/1axSFCp5A_EL9m6XKHr5js3dkUdOSDRyE?usp=sharing
 
 
-Practical 11
+# Practical 11
 
 
 a) Multiword Expressions in NLP
