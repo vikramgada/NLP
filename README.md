@@ -57,4 +57,45 @@ Practical 4 & 5
 
 https://colab.research.google.com/drive/1q09I-GJpM4UAv74rXZCiFDzlqSTxlwaK#scrollTo=VM_Wnam8Qb5g
 
+Practical 7 
+
+Finite state automata
+a) Define grammar using nltk. Analyze a sentence using the same.
+b) Accept the input string with Regular expression of Finite Automaton: 101+. 
+c) Accept the input string with Regular expression of FA: (a+b)*bba.
+d) Accept the input string with Regular expression of FA: (a+b)*bba.
+ https://colab.research.google.com/drive/1CG8eUNRX0KniKSndpwVo26_SkBJB1SSL?usp=sharing
+ 
+ Practical 8
+ 
+ Study PorterStemmer, LancasterStemmer, RegexpStemmer, SnowballStemmer Study WordNetLemmatizer
+
+https://colab.research.google.com/drive/1PRszDWrnK0x4_b1sDuHEqzFpRCeTkgJN?usp=sharing
+
+Practical 9 
+
+Implement Naive Bayes classifier
+
+https://colab.research.google.com/drive/1fuhFIsHLcOe4yhZEpH2gC7Ba-ZKC0-4J?usp=sharing
+
+Practical 10
+
+a) Speech Tagging: *
+i. Speech tagging using spacy
+ii. Speech tagging using nktl
+
+b. Statistical parsing:
+i. Usage of Give and Gave in the Penn Treebank sample
+ii. probabilistic parser
+
+https://colab.research.google.com/drive/1axSFCp5A_EL9m6XKHr5js3dkUdOSDRyE?usp=sharing
+
+Practical 11
+
+a) Multiword Expressions in NLP
+b) Normalized Web Distance and Word Similarity
+c) Word Sense Disambiguation
+
+https://colab.research.google.com/drive/1_k16HRriLUYsTthvPUPV3GjTskgLFK4N?usp=sharing
+
 
